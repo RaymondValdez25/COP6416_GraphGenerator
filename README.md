@@ -1,3 +1,6 @@
+Description:
+This was an assignment for the University of West Florida where we had to create a GUI that demonstrates graph traversal methods and minimum spanning trees.
+
 Please use Python 3.8.10 or above.
 
 Steps to run the GUI:
